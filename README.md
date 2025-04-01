@@ -40,7 +40,9 @@ For inquiries or access to the full features, please contact me at:
 
 ---
 
-## **Full Version Features:**
+
+## **For Full Version Features Details**  
+For the **full list of features**, please see **[FEATURES.md](## **Full Version Features:**
 
 The **Full Version** includes all features of the **Trial Version** plus the following:
 
@@ -71,9 +73,7 @@ The **Full Version** includes all features of the **Trial Version** plus the fol
 - ✅ **Advanced Search, Filters, and Sorting** for efficient data management  
 
 ---
-
-## **For Full Version Features Details**  
-For the **full list of features**, please see **[FEATURES.md](FEATURES.md)**.  
+)**.  
 
 ---
 
