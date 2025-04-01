@@ -1,6 +1,6 @@
 # Enrollment System (Tester Version)
 Important Note
-This is a tester version of the Enrollment System, designed for layout and interface preview only. Users can log in and navigate the system, but no modifications, insertions, or changes can be made.
+This is a **tester version** of the Enrollment System, designed for layout and interface preview only. Users can log in and navigate the system, but no modifications, insertions, or changes can be made.
 
 Trial (Tester) Version Features
 ✅ View the layout and interface of the system
