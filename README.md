@@ -36,7 +36,7 @@ This is a **tester version** of the Enrollment System, designed for layout and i
 
 ## **Contact:**
 For inquiries or access to the full features, please contact me at:  
-- **Email:** [your-email@example.com]  
+- **Email:** [comboyfrancisc@gmail.com]  
 
 ---
 
