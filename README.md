@@ -27,12 +27,6 @@ This is a **tester version** of the Enrollment System, designed for layout and i
 
 ---
 
-## **Important Notes:**
-- **This is a tester version only**, not for deployment.  
-- The system is in view-only mode—data modifications are disabled.  
-- If you are interested in accessing the **full version** with all features enabled, **please contact me**.  
-
----
 
 ## **Contact:**
 For inquiries or access to the full features, please contact me at:  
