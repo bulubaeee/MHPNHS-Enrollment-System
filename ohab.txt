@@ -1,0 +1,30 @@
+mga ohab
+ez
+
+-Teacher masterlist: di pa nakakapag add/delete/update/archived
+-Table accounts: wala pang archive rekta delete
+-mga filter sa bawat panel(yung status isasama nalang sa Sort by)
+-view ng offered subjects sa student masterlist(nahahawa yung ibang subj)
+-Design(yung mga babaguhin)
+-Forgot password
+-design ng table accounts(ohab daw sabi ni maam)
+*yung Dropbox na naman baka makalimutan 
+-Classlist report may ohab yung output
+
+
+Mahirap gawin
+-liliitan lahat
+-Single signed in: naka 0 lang yung signed pag nag log IN
+-Auto Sectioning, di pa masyadong ayos
+-Scanner (sa research namin) 
+
+MGA BINAGO
+-enformview may ohab yung kumukuha ng MI kulang sa validation
+-Student archive may select all na
+-fortransferee 2 dpa tapos mahirap idebug
+
+
+
+
+
+
