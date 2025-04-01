@@ -3868,10 +3868,10 @@ Statement st = con.createStatement(ResultSet.TYPE_SCROLL_SENSITIVE,ResultSet.CON
 
     private void eksMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_eksMouseClicked
         try {
-          //  Statement st = con.createStatement();
-          Statement st = con.createStatement(ResultSet.TYPE_SCROLL_SENSITIVE,ResultSet.CONCUR_READ_ONLY);
-            String query = "update tblacc set signed = 0 where username = '" + user + "'";
-            st.executeUpdate(query);
+//            Statement st = con.createStatement();
+//            Statement st = con.createStatement(ResultSet.TYPE_SCROLL_SENSITIVE, ResultSet.CONCUR_READ_ONLY);
+//            String query = "update tblacc set signed = 0 where username = '" + user + "'";
+//            st.executeUpdate(query);
             this.dispose();
         } catch (Exception e) {
         }
@@ -5916,9 +5916,9 @@ Statement st = con.createStatement(ResultSet.TYPE_SCROLL_SENSITIVE,ResultSet.CON
     private void jLabel12MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jLabel12MouseClicked
         try {
          //   Statement st = con.createStatement();
-         Statement st = con.createStatement(ResultSet.TYPE_SCROLL_SENSITIVE,ResultSet.CONCUR_READ_ONLY);
-            String query = "update tblacc set signed = 0 where username = '" + user + "'";
-            st.executeUpdate(query);
+//         Statement st = con.createStatement(ResultSet.TYPE_SCROLL_SENSITIVE,ResultSet.CONCUR_READ_ONLY);
+//            String query = "update tblacc set signed = 0 where username = '" + user + "'";
+//            st.executeUpdate(query);
             new LogIn().setVisible(true);
             this.dispose();
             //System.exit(0);
