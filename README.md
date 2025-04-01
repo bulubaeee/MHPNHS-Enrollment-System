@@ -42,7 +42,7 @@ For inquiries or access to the full features, please contact me at:
 
 
 ## **For Full Version Features Details**  
-For the **full list of features**, please see **[FEATURES.md](## **Full Version Features:**
+For the **full list of features**, please see **[FEATURES.md](FEATURES.md)**.
 
 
 Thank you for testing the **Enrollment System**!
