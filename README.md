@@ -20,10 +20,11 @@ This is a **tester version** of the Enrollment System, designed for layout and i
 
 ## **Instructions:**
 
-1. **Download** the `Enrollment System` files.  
-2. Open the **Enrollment System `.jar` file** to launch the program.  
-3. **Log in** using the test credentials provided above.  
-4. **Explore the interface** (note: you **cannot** insert, update, or delete data).  
+1. **Download** the Latest JDK at https://www.oracle.com/java/technologies/downloads/#jdk25-windows. 
+2. **Download** the `Enrollment System` files.  
+3. Open the **Enrollment System `.jar` file** to launch the program.  
+4. **Log in** using the test credentials provided above.  
+5. **Explore the interface** (note: you **cannot** insert, update, or delete data).  
 
 ---
 
